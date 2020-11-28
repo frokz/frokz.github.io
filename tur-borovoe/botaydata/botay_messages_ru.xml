@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[]]></data>
+  <data name="ru_project_author_name"><![CDATA[Касенов Бахтияр Айтпаевич]]></data>
+
+
+
+  <data name="ru_pano10_title"><![CDATA["BOTAI-BÝRABAI" mýzeıi / Музей "БОТАЙ-БУРАБАЙ" / Museum "BOTAI-BURABY"]]></data>
+  <data name="ru_spotpoint18_tooltip"><![CDATA[Вход во двор]]></data>
+
+
+  <data name="ru_pano11_title"><![CDATA[Aýla / Двор / Yard]]></data>
+  <data name="ru_spotpoint19_tooltip"><![CDATA[Вход]]></data>
+
+
+  <data name="ru_pano12_title"><![CDATA[Ákіmshіlіk turǵyn úıge kіrý / Вход в административное жилище / Entrance to administrative housing]]></data>
+  <data name="ru_spotpoint20_tooltip"><![CDATA[Входное административное жилище]]></data>
+  <data name="ru_spotpoint21_tooltip"><![CDATA[Назад]]></data>
+
+
+  <data name="ru_pano13_title"><![CDATA[Ákіmshіlіk turǵyn úıge / Административное жилище / Administrative housing]]></data>
+  <data name="ru_spotpoint45_tooltip"><![CDATA[Социально-культурное жилище]]></data>
+
+
+  <data name="ru_pano43_title"><![CDATA[Áleýmettіk-mádenı týrǵyn úı
+/ Социально-культурное жилище / Socio-cultural dwelling]]></data>
+  <data name="ru_spotpoint48_tooltip"><![CDATA[Жилище домашних промыслов]]></data>
+  <data name="ru_spotpoint171_tooltip"><![CDATA[Жилище вождя]]></data>
+  <data name="ru_spotpoint174_tooltip"><![CDATA[Спальное жилище]]></data>
+
+
+  <data name="ru_pano66_title"><![CDATA[Ortalyq turǵyn úı (kósemnіń turǵyn úıі)
+/ Центральное жилище (жилище вождя)
+/ The central dwelling (the dwelling of the leader)]]></data>
+  <data name="ru_spotpoint140_tooltip"><![CDATA[Жилище шамана]]></data>
+  <data name="ru_spotpoint190_tooltip"><![CDATA[Коневодческо-кумысное жилище]]></data>
+
+  <data name="ru_panogroup68_title"><![CDATA[Group 68]]></data>
+
+  <data name="ru_pano46_title"><![CDATA[Úı qásypіlіgі turǵyn úıі
+/ Жилище домашних промыслов / The home of domestic crafts]]></data>
+  <data name="ru_pano50_title"><![CDATA[Úı qásypіlіgі turǵyn úıі
+/ Жилище домашних промыслов / The home of domestic crafts]]></data>
+  <data name="ru_spotpoint54_tooltip"><![CDATA[Социально-культурное жилище]]></data>
+
+
+  <data name="ru_pano137_title"><![CDATA[Áleýmettіk-mádenı týrǵyn úı
+/ Социально-культурное жилище / Socio-cultural dwelling]]></data>
+  <data name="ru_spotpoint139_tooltip"><![CDATA[Жилище вождя]]></data>
+  <data name="ru_spotpoint175_tooltip"><![CDATA[Спальное жилище]]></data>
+  <data name="ru_spotpoint188_tooltip"><![CDATA[Административное жилище]]></data>
+
+
+  <data name="ru_pano141_title"><![CDATA[Rýhanı-kıelі turǵyn úı
+/ Духовно-сакральное жилище
+/ Spiritual and sacral dwelling]]></data>
+  <data name="ru_spotpoint146_tooltip"><![CDATA[Жилище
+вождя]]></data>
+
+
+  <data name="ru_pano144_title"><![CDATA[Ortalyq turǵyn úı (kósemnіń turǵyn úıі)
+/ Центральное жилище (жилище вождя)
+/ The central dwelling (the dwelling of the leader)]]></data>
+  <data name="ru_spotpoint149_tooltip"><![CDATA[Коневодческо-кумысное жилище]]></data>
+  <data name="ru_spotpoint191_tooltip"><![CDATA[Социально-культурное жилище]]></data>
+
+
+  <data name="ru_pano147_title"><![CDATA[Jylqy-qymyz turǵyn úıі
+/ Коневодческо-кумысное жилище
+/ Dwelling for horse-breeding and koumiss]]></data>
+  <data name="ru_spotpoint150_tooltip"><![CDATA[Выход]]></data>
+
+
+  <data name="ru_pano152_title"><![CDATA[Aýla / Двор / Yard]]></data>
+
+
+  <data name="ru_pano160_title"><![CDATA[Jylqy-qymyz turǵyn úıі
+/ Коневодческо-кумысное жилище
+/ Dwelling for horse-breeding and koumiss]]></data>
+  <data name="ru_spotpoint164_tooltip"><![CDATA[Жилище вождя]]></data>
+
+
+  <data name="ru_pano162_title"><![CDATA[Ortalyq turǵyn úı (kósemnіń turǵyn úıі)
+/ Центральное жилище (жилище вождя)
+/ The central dwelling (the dwelling of the leader)]]></data>
+  <data name="ru_spotpoint165_tooltip"><![CDATA[Жилище шамана]]></data>
+  <data name="ru_spotpoint166_tooltip"><![CDATA[Социально-культурное жилище]]></data>
+
+
+  <data name="ru_pano167_title"><![CDATA[Tynyǵý turǵyn úıі
+/ Спальное жилище
+/ Dwelling for sleeping]]></data>
+
+
+  <data name="ru_pano169_title"><![CDATA[Áleýmettіk-mádenı týrǵyn úı
+/ Социально-культурное жилище / Socio-cultural dwelling]]></data>
+  <data name="ru_spotpoint172_tooltip"><![CDATA[Жилище домашних промыслов]]></data>
+  <data name="ru_spotpoint173_tooltip"><![CDATA[Спальное жилище]]></data>
+  <data name="ru_spotpoint189_tooltip"><![CDATA[Выход в административное жилище]]></data>
+
+
+  <data name="ru_pano176_title"><![CDATA[Tynyǵý turǵyn úıі
+/ Спальное жилище
+/ Dwelling for sleeping]]></data>
+
+
+  <data name="ru_pano179_title"><![CDATA[Áleýmettіk-mádenı týrǵyn úı
+/ Социально-культурное жилище / Socio-cultural dwelling]]></data>
+  <data name="ru_spotpoint182_tooltip"><![CDATA[Жилище домашних промыслов]]></data>
+  <data name="ru_spotpoint183_tooltip"><![CDATA[Жилище вождя]]></data>
+  <data name="ru_spotpoint186_tooltip"><![CDATA[Выход в административное жилище]]></data>
+
+
+  <data name="ru_pano184_title"><![CDATA[Ákіmshіlіk turǵyn úıge / Административное жилище / Administrative housing]]></data>
+  <data name="ru_spotpoint187_tooltip"><![CDATA[Выход]]></data>
+
+
+
+
+
+
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="ru_controlBar_dockedThumbnailszoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="ru_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="ru_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="ru_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="ru_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="ru_controlBar_dockedThumbnailsautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="ru_controlBar_dockedThumbnailsgyroOnTip"><![CDATA[Enable gyroscope]]></data>
+  <data name="ru_controlBar_dockedThumbnailsgyroOffTip"><![CDATA[Disable gyroscope]]></data>
+  <data name="ru_controlBar_dockedThumbnailsgyroNotTip"><![CDATA[Gyroscope is unavailable]]></data>
+  <data name="ru_controlBar_dockedThumbnailsdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="ru_controlBar_dockedThumbnailshideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="ru_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="ru_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="ru_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="ru_controlBar_dockedThumbnailsctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="ru_prevnexttheme1prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="ru_prevnexttheme1nextSceneTip"><![CDATA[Next Scene]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <data name="ru_spotpoint188_description"><![CDATA[Выход в административное жилище и выход на улицу]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
